@@ -1,0 +1,10 @@
+C:\Users\kaber\Desktop\ООП\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\kaber\Desktop\ООП\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\kaber\Desktop\ООП\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\kaber\Desktop\ООП\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\kaber\Desktop\ООП\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\kaber\Desktop\ООП\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\kaber\Desktop\ООП\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\kaber\Desktop\ООП\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\kaber\Desktop\ООП\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\kaber\Desktop\ООП\lab2\lab2\obj\Debug\lab2.pdb
