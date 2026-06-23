@@ -1,0 +1,13 @@
+C:\Users\kaber\Desktop\ООП\lab6\ConsoleApp1\Plugins\FriendPlugins\SampleFriendPlugin.deps.json
+C:\Users\kaber\Desktop\ООП\lab6\ConsoleApp1\Plugins\FriendPlugins\SampleFriendPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab6\ConsoleApp1\Plugins\FriendPlugins\SampleFriendPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFriendPlugin.csproj.AssemblyReference.cache
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFriendPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFriendPlugin.AssemblyInfoInputs.cache
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFriendPlugin.AssemblyInfo.cs
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFriendPlugin.csproj.CoreCompileInputs.cache
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFr.D205F0BD.Up2Date
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFriendPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\refint\SampleFriendPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\SampleFriendPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab6\Plugins\SampleFriendPlugin\obj\Debug\ref\SampleFriendPlugin.dll

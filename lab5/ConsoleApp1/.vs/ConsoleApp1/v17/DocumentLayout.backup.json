@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\dataprocessingpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:dataprocessingpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\plugins\\encryptionplugin.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:plugins\\encryptionplugin.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\plugins\\encryptionplugin.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:plugins\\encryptionplugin.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\plugins\\encryptionplugin.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:plugins\\encryptionplugin.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\plugins\\vehiclecore.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:plugins\\vehiclecore.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\plugins\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:plugins\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|c:\\users\\kaber\\desktop\\\u043E\u043E\u043F\\lab5\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362A400C-AE4D-424D-A7FA-B61605D03B84}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PluginLoader.cs",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\PluginLoader.cs",
+              "RelativeDocumentMoniker": "PluginLoader.cs",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\PluginLoader.cs",
+              "RelativeToolTip": "PluginLoader.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:53:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AppSettings.cs",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\AppSettings.cs",
+              "RelativeToolTip": "AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:53:08.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProcessingPipeline.cs",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\DataProcessingPipeline.cs",
+              "RelativeDocumentMoniker": "DataProcessingPipeline.cs",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\DataProcessingPipeline.cs",
+              "RelativeToolTip": "DataProcessingPipeline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:53:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncryptionPlugin.pdb",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\EncryptionPlugin.pdb",
+              "RelativeDocumentMoniker": "Plugins\\EncryptionPlugin.pdb",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\EncryptionPlugin.pdb",
+              "RelativeToolTip": "Plugins\\EncryptionPlugin.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2026-05-28T06:51:15.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncryptionPlugin.deps.json",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\EncryptionPlugin.deps.json",
+              "RelativeDocumentMoniker": "Plugins\\EncryptionPlugin.deps.json",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\EncryptionPlugin.deps.json",
+              "RelativeToolTip": "Plugins\\EncryptionPlugin.deps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T06:51:09.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptionPlugin.dll",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\EncryptionPlugin.dll",
+              "RelativeDocumentMoniker": "Plugins\\EncryptionPlugin.dll",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\EncryptionPlugin.dll",
+              "RelativeToolTip": "Plugins\\EncryptionPlugin.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-05-28T06:51:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleCore.dll",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\VehicleCore.dll",
+              "RelativeDocumentMoniker": "Plugins\\VehicleCore.dll",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\VehicleCore.dll",
+              "RelativeToolTip": "Plugins\\VehicleCore.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-05-28T06:51:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\README.txt",
+              "RelativeDocumentMoniker": "Plugins\\README.txt",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Plugins\\README.txt",
+              "RelativeToolTip": "Plugins\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-28T06:50:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kaber\\Desktop\\\u041E\u041E\u041F\\lab5\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T23:05:33.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

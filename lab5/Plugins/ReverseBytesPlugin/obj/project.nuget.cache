@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+L6DuSYXRs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaber\\Desktop\\ООП\\lab5\\Plugins\\ReverseBytesPlugin\\ReverseBytesPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaber\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ade6b56c19de6f5ea686bd4d98e977ca\\nuget\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\kaber\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ade6b56c19de6f5ea686bd4d98e977ca\\nuget\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\kaber\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ade6b56c19de6f5ea686bd4d98e977ca\\nuget\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

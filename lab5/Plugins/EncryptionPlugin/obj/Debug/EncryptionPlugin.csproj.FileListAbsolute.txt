@@ -1,0 +1,13 @@
+C:\Users\kaber\Desktop\ООП\lab5\ConsoleApp1\Plugins\EncryptionPlugin.deps.json
+C:\Users\kaber\Desktop\ООП\lab5\ConsoleApp1\Plugins\EncryptionPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab5\ConsoleApp1\Plugins\EncryptionPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\EncryptionPlugin.csproj.AssemblyReference.cache
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\EncryptionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\EncryptionPlugin.AssemblyInfoInputs.cache
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\EncryptionPlugin.AssemblyInfo.cs
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\EncryptionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\Encrypti.503B4844.Up2Date
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\EncryptionPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\refint\EncryptionPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\EncryptionPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\EncryptionPlugin\obj\Debug\ref\EncryptionPlugin.dll

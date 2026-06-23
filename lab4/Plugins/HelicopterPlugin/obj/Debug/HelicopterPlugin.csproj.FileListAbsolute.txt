@@ -1,0 +1,13 @@
+C:\Users\kaber\Desktop\ООП\lab4\ConsoleApp1\Plugins\HelicopterPlugin.deps.json
+C:\Users\kaber\Desktop\ООП\lab4\ConsoleApp1\Plugins\HelicopterPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab4\ConsoleApp1\Plugins\HelicopterPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\HelicopterPlugin.csproj.AssemblyReference.cache
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\HelicopterPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\HelicopterPlugin.AssemblyInfoInputs.cache
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\HelicopterPlugin.AssemblyInfo.cs
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\HelicopterPlugin.csproj.CoreCompileInputs.cache
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\Helicopt.4C159E1B.Up2Date
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\HelicopterPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\refint\HelicopterPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\HelicopterPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab4\Plugins\HelicopterPlugin\obj\Debug\ref\HelicopterPlugin.dll

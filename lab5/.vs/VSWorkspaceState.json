@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConsoleApp1",
+    "\\Plugins",
+    "\\Plugins\\EncryptionPlugin",
+    "\\Plugins\\ReverseBytesPlugin"
+  ],
+  "SelectedNode": "\\Plugins\\ReverseBytesPlugin\\ReverseBytesProcessingPlugin.cs",
+  "PreviewInSolutionExplorer": false
+}

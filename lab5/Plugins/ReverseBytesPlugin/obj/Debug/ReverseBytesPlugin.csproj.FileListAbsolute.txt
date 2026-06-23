@@ -1,0 +1,13 @@
+C:\Users\kaber\Desktop\ООП\lab5\ConsoleApp1\Plugins\ReverseBytesPlugin.deps.json
+C:\Users\kaber\Desktop\ООП\lab5\ConsoleApp1\Plugins\ReverseBytesPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab5\ConsoleApp1\Plugins\ReverseBytesPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseBytesPlugin.csproj.AssemblyReference.cache
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseBytesPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseBytesPlugin.AssemblyInfoInputs.cache
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseBytesPlugin.AssemblyInfo.cs
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseBytesPlugin.csproj.CoreCompileInputs.cache
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseB.A07A7102.Up2Date
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseBytesPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\refint\ReverseBytesPlugin.dll
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ReverseBytesPlugin.pdb
+C:\Users\kaber\Desktop\ООП\lab5\Plugins\ReverseBytesPlugin\obj\Debug\ref\ReverseBytesPlugin.dll

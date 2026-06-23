@@ -1,0 +1,11 @@
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\bin\Debug\net8.0\VehicleCore.deps.json
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\bin\Debug\net8.0\VehicleCore.dll
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\bin\Debug\net8.0\VehicleCore.pdb
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\VehicleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\VehicleCore.AssemblyInfoInputs.cache
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\VehicleCore.AssemblyInfo.cs
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\VehicleCore.csproj.CoreCompileInputs.cache
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\VehicleCore.dll
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\refint\VehicleCore.dll
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\VehicleCore.pdb
+C:\Users\kaber\Desktop\ООП\lab6\VehicleCore\obj\Debug\net8.0\ref\VehicleCore.dll

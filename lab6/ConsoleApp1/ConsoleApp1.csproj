@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VehicleCore\VehicleCore.csproj" />
+    <ProjectReference Include="..\Plugins\EncryptionPlugin\EncryptionPlugin.csproj" ReferenceOutputAssembly="false" />
+    <ProjectReference Include="..\Plugins\SampleFriendPlugin\SampleFriendPlugin.csproj" ReferenceOutputAssembly="false" />
+  </ItemGroup>
+
+  <Target Name="CopyPluginsToOutput" AfterTargets="Build">
+    <ItemGroup>
+      <PluginFiles Include="Plugins\*.dll" />
+      <FriendPluginFiles Include="Plugins\FriendPlugins\*.dll" />
+    </ItemGroup>
+    <MakeDir Directories="$(OutputPath)Plugins\FriendPlugins\" />
+    <Copy SourceFiles="@(PluginFiles)" DestinationFolder="$(OutputPath)Plugins\" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(FriendPluginFiles)" DestinationFolder="$(OutputPath)Plugins\FriendPlugins\" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="..\VehicleCore\bin\$(Configuration)\net8.0\VehicleCore.dll"
+          DestinationFolder="$(OutputPath)Plugins\"
+          SkipUnchangedFiles="true"
+          Condition="Exists('..\VehicleCore\bin\$(Configuration)\net8.0\VehicleCore.dll')" />
+  </Target>
+
+</Project>
